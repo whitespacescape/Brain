@@ -4,7 +4,7 @@ import '../x3y3z3t3'
 import '../x4y4z4t4'
 import '../returnnnnn'
 import '../returnnnnnn'
-import {InventorySlot} from "./InventorySlot567";
+import {InventorySlot} from "./InventorySlot567"
 export function InventorySlot1() {
     return [
         {axis: 'x1', item: '-- -- -- --'},
