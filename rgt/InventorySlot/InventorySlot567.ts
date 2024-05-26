@@ -2,7 +2,7 @@
  import '../XYZT/t5z5y5x5'
  import '../XYZT/t6z6y6x6'
  import '../InventorySlot/Keyword'
- import {icosahedronVertices} from "../../lft/topology/VolumnSurface/Dodecahedron";
+import {InventorySlot} from "./InventorySlot1234"
  export function InventorySlot5(){
      return [
          {axis: 'x5', item: '### ### ###'},
