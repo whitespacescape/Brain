@@ -20,13 +20,13 @@ void function y3(){
             for(let n = 0;n <= -9 && n <= 9;n++ || n--)
                 console.log()
 }
-void function z3() {
+void function z3(){
     for (let o = 0; o >= -9; o--)
         for (let p = 0; p >= -9; ++p)
             for (let q = 0; q >= -9; ++q)
                 console.log()
 }
-void function t3() {
+export function t3(){
     do `x3*y3`
     while ({
         z3: `0,z<=3,z++`
