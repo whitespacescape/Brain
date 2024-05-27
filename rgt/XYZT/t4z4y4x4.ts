@@ -26,7 +26,7 @@ void function z4() {
             for (let Q = 0; Q >= 2; --Q)
                 console.log()
 }
-void function t4(){
+export function t4(){
     do `x4*y4`
     while ({
         z4: `0,z>=4,z--`
