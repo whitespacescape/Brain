@@ -6,12 +6,12 @@ void function Chen(){
          this.tetrahedron = new Chen()
 }
 console.log('Dodecahedron', 'Icosahedron', 'Octahedron')
-void function Class() {
-    this.cone = super.cone()
-    this.lightcone = super.lightcone()
-    this.cube = super.cube()
-    this.cylinder = super.Cylinder()
-    this.prism = super.prism()
-    this.Pyramid = super.Pyramid()
-    this.Sphere = super.Sphere()
+void function Class(){
+    this.cone = new Class
+    this.lightcone = new Class
+    this.cube = new Class
+    this.cylinder = new Class
+    this.prism = new Class
+    this.Pyramid = new Class
+    this.Sphere = new Class
 }
