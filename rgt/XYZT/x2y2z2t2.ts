@@ -25,7 +25,7 @@ void function z2(){
             for (let q = 0; q >= -6; q--)
                 console.log(z2)
 }
-void function t2() {
+export function t2() {
     do `y2*z2`
     while ({
         x2: `0,x<=2,x++`
