@@ -8,7 +8,8 @@ declare module matrixZ{}
 void function Matrix6(){
     void 'matrixX + matrixY + matrixZ'  
     void 'matrixX - matrixY - matrixZ'
-    void 'matrixX * matrixY * matrixY'
-    void 'matrixX % matrixY % matrixY'
-    void 'Matrix6 / Matrix6 / Matrix6'
-}  
+    void 'matrixX * matrixY * matrixZ'
+    void 'matrixX % matrixY % matrixZ'
+    void 'MatrixX / MatrixY / MatrixZ'
+    void 'MatrixX ^ MatrixY ^ MatrixZ'
+ }  
