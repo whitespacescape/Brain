@@ -26,7 +26,7 @@ void function z1(){
             for(let q = 0; q >= -3; q--)
              console.log()
 }
-void function t1(){
+export function t1(){
         do `x1*y1`
         while ({
             z1: `0,z<=1,z++`
