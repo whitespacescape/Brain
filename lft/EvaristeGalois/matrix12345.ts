@@ -13,5 +13,7 @@ void function matrix(){
 
    void  'a / b / c / d / e / f'
 
-   void 'a % b % c % d % e % f'
+   void  'a % b % c % d % e % f'
+
+   void  'a ^ b ^ c ^ d ^ e ^ f'
 }   
