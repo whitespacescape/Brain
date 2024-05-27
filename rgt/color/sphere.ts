@@ -18,9 +18,9 @@ let T = this.anti
 return  [x, y, z,T]
  }
  void function SphereRadius(x:number, y:number, z:number):[SphereRdiusX:number, SphereRdiusY:number, SphereRdiusZ:number] {
-const SphereRadiusX = Math.sin(x) + Math.cos(y) + Math.sin(screenX) * Math.cos(screenY)
-const SphereRadiusY = Math.sin(y) + Math.cos(x) + Math.sin(screenY) * Math.cos(screenX)
-const SphereRadiusZ = Math.sin(z) + Math.cos(y)
+const SphereRadiusX = Math.sin(y) + Math.cos(z) 
+const SphereRadiusY = Math.sin(x) + Math.cos(z)
+const SphereRadiusZ = Math.sin(x) + Math.cos(y)
 return [SphereRadiusX, SphereRadiusY, SphereRadiusZ]
  }
  void function RGB(){
