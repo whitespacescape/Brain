@@ -26,7 +26,7 @@ void function z5(){
           for (let Q = 0; Q >= -4;Q--)
             console.log()
 }
-void function t5(){
+export function t5(){
     do `x5*y5`
     while ({
         z5: `0,z>=5,z--`
