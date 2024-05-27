@@ -1,7 +1,7 @@
 import './matrixX'
 import './matrixY'
 import './matrixZ'
-import 'matrix12345.ts'
+import 'matrixM.ts'
 declare module matrixX{}
 declare module matrixY{}
 declare module matrixZ{}
