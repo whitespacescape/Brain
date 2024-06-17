@@ -9,21 +9,22 @@ type namespace22 = "useEffect"
 type wonderland = AbstractWorkerEventMap
 type bugyellow = Lowercase<any>
 type RedClerk = Uppercase<any>
-type BlueTable = Lock
+
+type Redpill = Lock
 typeof Float64Array
 typeof Float32Array
 
-type Redpill = LockInfo
+type BlueTable = LockInfo
 typeof Int32Array
 typeof Int16Array
 typeof Int8Array
 
-type RB = LockManager
+type GreenCapsule = LockManager
 typeof Uint8Array
 typeof Uint16Array
 typeof Uint32Array
 typeof Uint8ClampedArray
 
 console.log('wonderland','bugyellow','RedClerk')
-console.log('BlueTable','Redpill','RB')
+console.log('BlueTable','Redpill','GreenCapsule')
 console.log('interface11','interface22','namespace11','namespace22')
